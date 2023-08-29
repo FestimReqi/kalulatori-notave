@@ -1,8 +1,8 @@
-Grade Calculator for Faculty
+Grade Calculator for Faculty 🎓
 
-Welcome to the Grade Calculator for Faculty, an essential tool designed to simplify and streamline the process of calculating students' grades accurately and efficiently. This intuitive calculator empowers faculty members with a comprehensive solution for managing grading tasks and providing transparent assessments to students.
+Welcome to the Grade Calculator for Faculty, a powerful tool designed to simplify and streamline the process of calculating students' grades accurately and efficiently. This intuitive calculator empowers faculty members with a comprehensive solution for managing grading tasks and providing transparent assessments to students.
 
-Key Features:
+🌟 Key Features:
 
 Effortless Grade Calculation: Our calculator eliminates the complexities of manual grade calculation by automating the process based on entered scores and weightage. Easily input individual student scores and corresponding weightage for each assignment, exam, or project.
 
@@ -18,12 +18,12 @@ Time-Saving Solution: By automating the grading process, the calculator saves va
 
 Error-Free Grading: Eliminate the risk of calculation errors associated with manual grading. The calculator's precision ensures that each student's final grade is accurate, fair, and consistent.
 
-How to Use:
+🚀 How to Use:
 
 Enter Student Scores: Input individual student scores for assignments, exams, and other components of the course assessment.
 Set Weightage: Assign weightage to each component to reflect its importance in the overall grade.
 Calculate Grades: With a single click, generate final grades for each student, automatically considering the weightage of each component.
 Review and Share: Review the calculated grades and provide students with comprehensive feedback on their performance.
-Empower Your Grading Process:
+Empower Your Grading Process 📚
 
 The Grade Calculator for Faculty revolutionizes the way educators manage and calculate grades. It ensures fairness, accuracy, and transparency in assessing student performance. Elevate your teaching experience by embracing this efficient tool and providing your students with clear insights into their academic progress.
