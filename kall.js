@@ -1,11 +1,12 @@
 console.log('kalkulatori');
 
 // test 1
-let kal = "kal";
+let kal1 = "kal";
+// test 2 
+console.log("kal")
+let kal2 = "kal";
 
-let kal = "kal";
-
-let kal = "kal";
+let kal3 = "kal";
 
 
 // Define the total number of notes
