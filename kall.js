@@ -40,3 +40,9 @@ document.getElementById("Kalkulo").onclick = function () {
     document.getElementById("rezultati").innerHTML = Fullrezultati;
     document.getElementById("Mesatarja").innerHTML = Mesatarja;
 }
+
+console.log("kalui")
+
+
+
+
