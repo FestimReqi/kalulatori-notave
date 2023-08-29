@@ -3,9 +3,10 @@ console.log('kalkulatori');
 // test 1
 let kal1 = "kal";
 // test 2 
-console.log("kal")
+console.log("kal1")
 let kal2 = "kal";
-
+// test 2 
+console.log("kal2")
 let kal3 = "kal";
 
 
